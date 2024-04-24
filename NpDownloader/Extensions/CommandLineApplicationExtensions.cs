@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+using System.Linq;
 using McMaster.Extensions.CommandLineUtils;
 using NpDownloader.Commands;
 
